@@ -64,17 +64,17 @@
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bvikash363in/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/bvikash363R/bvikash363R)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/neuroCodexAI)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/neuragenx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio.com)  -->
 
 ---
 
 ## ⚡ GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bvikash363R&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bvikash363R&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bvikash363R&theme=radical)    
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=neuroCodexAI&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neuroCodexAI&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neuroCodexAI&theme=radical)    
 
 <p align="right">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00FFEA&center=true&vCenter=true&width=600&lines=Code+Learn+Build+Repeat;" alt="Typing SVG" />
